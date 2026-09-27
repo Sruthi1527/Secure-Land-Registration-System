@@ -61,9 +61,3 @@ The application provides **User Registration and Login functionality**. User inf
 
 ---
 
-## 🗄️ Database Setup
-
-### Step 1: Create Database
-
-```sql
-CREATE DATABASE corejava_training;
